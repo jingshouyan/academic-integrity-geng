@@ -2,7 +2,6 @@
 name: academic-integrity-geng
 description: 🧬 耿同学·学术论文造假分析 — 从数据、图表、方法、统计学、引用等多维度扫描论文，标记造假/操纵/不当引用等疑点
 runAs: subagent
-model: deepseek-v4-pro
 allowedTools:
   - read_file
   - search_content
