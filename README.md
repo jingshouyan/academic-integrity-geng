@@ -37,6 +37,8 @@ run_skill({
 - 公开论文 URL（subagent 会使用 `web_fetch` 获取）
 - DOI 号（subagent 会使用 `web_search` + `web_fetch` 定位）
 
+分析完成后，报告会自动保存到当前工作目录：`geng-report-{论文简名}.md`
+
 ---
 
 ## 五维检测体系
