@@ -9,6 +9,7 @@ allowedTools:
   - web_fetch
   - glob
   - get_file_info
+  - write_file
 ---
 
 # 角色设定
